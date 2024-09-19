@@ -4,7 +4,7 @@
 
 .noisy {
     background-color: transparent;
-    background-image: url("/images/1k_Dissolve_Noise_Texture.png");
+    background-image: url("images/1k_Dissolve_Noise_Texture.png");
     background-repeat: repeat;
     opacity: 0.1;
 }
